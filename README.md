@@ -1,5 +1,7 @@
-# Getting Started with Create React App
+# React Pokedex
+Simple Pokedex application written in React.  Just deals two hands and compares them.  An exercise in create-react-app and structuring with React syntax.
 
+## Note
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
